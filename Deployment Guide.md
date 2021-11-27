@@ -1,4 +1,4 @@
-**Twilio**
+**Twilio Credentials**
 1. SignIn to your Twilio Account:
 	- You will get your ACCOUNT_SID & AUTH_TOKEN from your Daskboard.
 2. For MESSAGING_SERVICE_SID:
@@ -8,8 +8,29 @@
 	- Search for 'Whatsapp Senders' in the search bar
 	- Copy the number from here.
 
+**Twilio App Setup**
+1. Go to https://github.com/vruksheco/ekatraone-twilio and clone/download the repo.
+2. SignIn to your github -> Create new a repo(By Clicking on 'New') -> Enter Repo name -> Give Description -> Choose Public/Private -> Create Repo.
+3. SignIn to your Heroku Account -> Click on New -> Create a new app -> Go to your cloned repo -> Open a terminal in that directory
+4. Then enter the following commands:
+	1. heroku login (then press any key, then you would be prompted to login to your heroku account)
+	2. git init
+	3. heroku git:remote -a {PROJECT_NAME}
+	4. git add .
+	5. git commit -a "{COMMIT_MESSAGE}
+	6. git push heroku master
+5. In your Overview tab -> Click on Configure Add-ons -> Search for 'Advanced Scheduler' in the Add-Ons search bar -> Select Advanced Scheduler -> Slect a plan -> Click on Submit Order Form.
+6. After the Advanced Scheduler in your Installed add-ons section -> Click on the Advanced Scheduler add-on -> Click on Create Trigger then:
+	1. Enter name for the trigger
+	2. Command: python app.py
+	3. Select your timezone
+	4. Leave the default state
+	5. Select Type
+	6. Set time by following prompts, according to your select Type
+	7. Click Save
+
 **Backend**
-1. Go to https://github.com/Pranav-Bobde/Ekatra-Backend and clone/download the repo.
+1. Go to https://github.com/vruksheco/ekatraone-backend and clone/download the repo.
 2. SignIn to your github -> Create new a repo(By Clicking on 'New') -> Enter Repo name -> Give Description -> Choose Public/Private -> Create Repo.
 3. SignIn to your Heroku Account -> Click on New -> Create a new app -> Go to your cloned repo -> Open a terminal in that directory
 4. Then enter the following commands:
@@ -43,7 +64,7 @@
 
 
 **Frontend**
-1. Go to https://github.com/Pranav-Bobde/ekatra-frontend and clone/download the repo.
+1. Go to https://github.com/vruksheco/ekatraone-frontend and clone/download the repo.
 2. SignIn to your github -> Create new a repo(By Clicking on 'New') -> Enter Repo name -> Give Description -> Choose Public/Private -> Create Repo.
 3. Then go to your downloaded repo -> Open a terminal in that directory -> then enter the following commands
 	- git init
