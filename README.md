@@ -30,3 +30,10 @@ There is a huge digital divide in urban and rural schools. In a recent survey, o
 - [**Voice API**](https://www.twilio.com/docs/voice) helps us to make, receive, and monitor calls around the world. Using a REST API, we can make outgoing calls, modify calls in progress, and query metadata about calls created. More advanced call features like programmatic call control, creating conference calls and call queues,  call recordings, and conversational IVRs are possible. 
 
 - [**OpenAI GPT-3 API**](https://openai.com/blog/openai-api/) provides a general-purpose “text in, text out” interface, which makes it possible to apply it to virtually any language task. This is different from most other languages APIs, which are designed for a single task, such as sentiment classification or named entity recognition.
+
+## Contributing Guidelines
+
+Please follow the [contributing guidelines](CONTRIBUTING.md) to contribute to the project.
+
+## License
+ekatraone is MIT licensed, as found in the [LICENSE](LICENSE) file.
