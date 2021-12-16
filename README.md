@@ -23,7 +23,6 @@ There is a huge digital divide in urban and rural schools. In a recent survey, o
 
 ![MERN](https://user-images.githubusercontent.com/51878265/146328545-8e211ca6-f6d5-4ac3-871e-679010b718c5.jpg)
 
-
 - [**The WhatsApp Business API**](https://www.whatsapp.com/business/api) client offers many of the features provided by the WhatsApp applications we already know from Android, iOS, and Web. The difference is that this application can be deployed on a server, providing a local API that allows us to programmatically send and receive messages and integrate a workflow.
 
 - [**Using SMS REST API**](https://www.twilio.com/docs/sms/api), we can send and receive SMS messages, track the delivery of sent messages, and retrieve and modify message history. We are able to deliver SMS to your end-users, no matter where they are, with global senders and redundant telecommunications infrastructure. We’ve solved the challenges of scale with configurable software to power phone number management, sender selection, compliance, content, and replies. 
