@@ -2,18 +2,24 @@
 
 **[Ekatra](https://www.ekatra.one/) is a Unified Learning Platform that can help instructors to teach students with little dependence on smartphone devices or the internet.**
 
-Ekatra is a tool for educators and organizations to deliver learning at scale, combining the power of Text (SMS & Whatsapp), Audio & Video communication. Our learning platform helps such organizations focused on career readiness for underserved high schoolers to teach them important job and life skills.
+**Ekatra** is a tool for educators and organizations to deliver learning at scale, combining the power of Text (SMS & Whatsapp), Audio & Video communication. Our learning platform helps such organizations focused on career readiness for underserved high schoolers to teach them important job and life skills.
 
 ![Ekaone](https://user-images.githubusercontent.com/51878265/146318650-c20ad11e-9de4-4e0e-a331-b5a61ca084e1.gif)
-
 
 There is a huge digital divide in urban and rural schools. In a recent survey, over 75 pc of students are impacted due to the lockdown as they found it hard to study online, over 80 pc students said they need hand-holding to shift from offline to online and over 25 pc said they need proper training to pursue education online.
 
 **Ekatra's long-term vision is to provide quality education to billions of people around the world.**
 
+---
+
+### Try/Know more about Ektra now:
+
+<p align="center"><a href="https://api.whatsapp.com/send?phone=919423941806&text=Hello,+tell+me+about+ekatra!&utm_source=website"><img src="https://user-images.githubusercontent.com/51878265/146324578-08b40adb-d813-46be-a852-8b680d0636c6.png" height="100"></a>
+</p>
+
 ## Tech Stacks
 
-Ekatra’s technical foundation comprises MERN Stack. (MongoDB, Express.js, React.js and Node.js). We use the following core existing technologies in tandem to provide the low data / no data solution to learning. 
+**Ekatra’s technical foundation comprises MERN Stack. ([MongoDB](https://github.com/mongodb/mongo), [Express.js](https://github.com/expressjs/express), [React.js](https://github.com/reactjs/reactjs.org) and [Node.js](https://github.com/nodejs/node)). We use the following core existing technologies in tandem to provide the low data / no data solution to learning.** 
 
 - [**The WhatsApp Business API**](https://www.whatsapp.com/business/api) client offers many of the features provided by the WhatsApp applications we already know from Android, iOS, and Web. The difference is that this application can be deployed on a server, providing a local API that allows us to programmatically send and receive messages and integrate a workflow.
 
