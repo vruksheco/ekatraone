@@ -36,4 +36,4 @@ There is a huge digital divide in urban and rural schools. In a recent survey, o
 Please follow the [contributing guidelines](CONTRIBUTING.md) to contribute to the project.
 
 ## License
-ekatraone is MIT licensed, as found in the [LICENSE](LICENSE) file.
+Ekatraone is MIT licensed, as found in the [LICENSE](LICENSE) file.
