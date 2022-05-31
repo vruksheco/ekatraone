@@ -14,7 +14,7 @@ There is a huge digital divide in urban and rural schools. In a recent survey, o
 
 ### Try/Know more about Ektra now:
 
-<p align="center"><a href="https://api.whatsapp.com/send?phone=919423941806&text=Hello,+tell+me+about+ekatra!&utm_source=website"><img src="https://user-images.githubusercontent.com/51878265/146324578-08b40adb-d813-46be-a852-8b680d0636c6.png" height="100"></a>
+<p align="center"><a href="https://bit.ly/ekatra001"><img src="https://user-images.githubusercontent.com/51878265/146324578-08b40adb-d813-46be-a852-8b680d0636c6.png" height="100"></a>
 </p>
 
 ## Tech Stacks
